@@ -1,4 +1,3 @@
-Movement Behaviors Test
------------------------
-* XNA 4.0
-* Visual Studio 2010
+Movement Behaviors
+------------------
+* XNA 4.0 Refresh
